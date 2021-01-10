@@ -1,0 +1,222 @@
+[
+  {
+    "question": "What does RAM stand for?",
+    "choice": [
+      "Random Access Memory",
+      "Random Account Memory",
+      "Random Amend Memory",
+      "Read Access Memory"
+    ],
+    "answer": "0",
+    "category": "1"
+  },
+  {
+    "question": "Mouse is a\/an__",
+    "choice": [
+      "network device",
+      "output device",
+      "input device",
+      "storage device"
+    ],
+    "answer": "2",
+    "category": "1"
+  },
+  {
+    "question": "The I\/O process where the processor constantly checks the I\/O device status flags is called __",
+    "choice": [
+      "interrupt",
+      "I\/O Polling (Programmed I\/O)",
+      "I\/O",
+      "Serial Monitoring"
+    ],
+    "answer": "1",
+    "category": "1"
+  },
+  {
+    "question": "What is 11001 in decimal?",
+    "choice": [
+      "21",
+      "22",
+      "25",
+      "26"
+    ],
+    "answer": "2",
+    "category": "1"
+  },
+  {
+    "question": "How many bytes are there in 111100110001110100111011(in binary)?",
+    "choice": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": "2",
+    "category": "1"
+  },
+  {
+    "question": "What does DNA stand for?",
+    "choice": [
+      "deoxyribonucleic acid",
+      "deoxygenated acid",
+      "deoxyribose acid",
+      "deoxyriddle acid"
+    ],
+    "answer": "0",
+    "category": "2"
+  },
+  {
+    "question": "Which of the following is not an organelle?",
+    "choice": [
+      "mitochondrion",
+      "Golgi apparatus",
+      "nucleus",
+      "ribosome"
+    ],
+    "answer": "3",
+    "category": "2"
+  },
+  {
+    "question": "What does animal cell not have?",
+    "choice": [
+      "nucleus",
+      "cell wall",
+      "cell membrane",
+      "vacuole"
+    ],
+    "answer": "1",
+    "category": "2"
+  },
+  {
+    "question": "Which condition causes plants to have maximum transpiration?",
+    "choice": [
+      "rainy and windy day",
+      "sunny and humid day",
+      "sunny day",
+      "windy and sunny day"
+    ],
+    "answer": "3",
+    "category": "2"
+  },
+  {
+    "question": "Which are the requirements for photosynthesis?",
+    "choice": [
+      "carbon dioxide, water, sunlight",
+      "water, oxygen, sunlight",
+      "water, wind, carbon dioxide",
+      "sunlight, soil, water"
+    ],
+    "answer": "0",
+    "category": "2"
+  },
+  {
+    "question": "What is 1 + 1?",
+    "choice": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": "2",
+    "category": "3"
+  },
+  {
+    "question": "What does cm stand for?",
+    "choice": [
+      "cream",
+      "catmouse",
+      "centimetre",
+      "centimet"
+    ],
+    "answer": "2",
+    "category": "3"
+  },
+  {
+    "question": "What is 3!",
+    "choice": [
+      "3",
+      "3 x 2 x 1",
+      "3 + 2 + 1",
+      "3 - 2 - 1"
+    ],
+    "answer": "1",
+    "category": "3"
+  },
+  {
+    "question": "What is 1 + 1 in boolean algebra?",
+    "choice": [
+      "0",
+      "1",
+      "2",
+      "3"
+    ],
+    "answer": "1",
+    "category": "3"
+  },
+  {
+    "question": "Which of the following has 2 bytes?",
+    "choice": [
+      "10000000",
+      "1111111100002222",
+      "000011110011",
+      "1111001100011101"
+    ],
+    "answer": "3",
+    "category": "3"
+  },
+  {
+    "question": "What is H2O?",
+    "choice": [
+      "dioxide",
+      "hydrogen dioxide",
+      "water",
+      "oxygen"
+    ],
+    "answer": "2",
+    "category": "4"
+  },
+  {
+    "question": "Which is not an inert gas?",
+    "choice": [
+      "chlorine",
+      "helium",
+      "argon",
+      "neon"
+    ],
+    "answer": "0",
+    "category": "4"
+  },
+  {
+    "question": "How many outer electrons does oxygen have",
+    "choice": [
+      "2",
+      "8",
+      "4",
+      "6"
+    ],
+    "answer": "3",
+    "category": "4"
+  },
+  {
+    "question": "What is the atomic number of sodium?",
+    "choice": [
+      "0",
+      "11",
+      "21",
+      "31"
+    ],
+    "answer": "1",
+    "category": "4"
+  },
+  {
+    "question": "What is the chemical formula of methane?",
+    "choice": [
+      "CH",
+      "CH2",
+      "CH3",
+      "CH4"
+    ],
+    "answer": "3",
+    "category": "4"
+  }
+]
